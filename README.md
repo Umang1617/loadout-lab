@@ -4,7 +4,6 @@
 
 ![Agent Skill](https://img.shields.io/badge/Agent_Skill-SKILL.md-6C47FF?style=flat-square)
 ![Built for](https://img.shields.io/badge/Built_for-BlueAI-0A84FF?style=flat-square)
-![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
 
 Loadout Lab is an agent skill (a `SKILL.md` plus two reference files). Ask for the best build for any character, hero, brawler or weapon class in a mobile game. It searches community sources, runs a quality check on how recent and how consistent they are, and replies in one fixed format with three build options and an honest confidence rating. It was first named Pro Guide Finder.
 
@@ -102,7 +101,3 @@ loadout-lab/
 ## Credits
 
 Built by [Umang Srivastava](https://www.linkedin.com/in/umang1617/).
-
-## License
-
-[MIT](LICENSE)
